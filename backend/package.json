@@ -21,8 +21,9 @@
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
     "express-session": "^1.17.2",
-    "mongodb": "^4.0.0",
-    "morgan": "^1.10.0"
+    "mongodb": "^4.17.1",
+    "morgan": "^1.10.0",
+    "node_env": "^0.0.3"
   },
   "devDependencies": {
     "@types/cors": "^2.8.11",

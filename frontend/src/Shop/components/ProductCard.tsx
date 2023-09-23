@@ -28,7 +28,7 @@ export default function ProductCard(props: Props) {
         <button onClick={props.onClickBuy}>Order</button>
       </div>
 
-      <span style={{fontSize: '0.6em'}}>{props.pictureCaption}</span>
+      
     </div>
   )
 }
